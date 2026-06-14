@@ -8,7 +8,7 @@ IT Student | Aspiring Software Developer
 - HTML
 - CSS
 - JavaScript
-- - Python
+- Python
 - SQL
 
 ## Projects
